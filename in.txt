@@ -1,0 +1,35 @@
+is_empty
+extract_max
+insert 50 50
+insert 160 160 
+insert 200 200 
+insert 300 300 
+insert 120 120 
+insert 1300 1300 
+insert 900 900 
+insert 90 90 
+increase_key 120 1500
+delete_key 10
+delete_key 120
+is_empty
+print 
+extract_max 
+print
+new_heap 
+insert 60 60
+insert 180 180 
+insert 350 350 
+insert 450 450 
+insert 10 10
+insert 1 1 
+insert 4 4 
+insert 1400 1400 
+insert 3 3
+extract_max
+meld
+print 
+find 350
+find_max
+new_heap
+meld
+print
